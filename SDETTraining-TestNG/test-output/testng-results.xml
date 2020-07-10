@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Starting Test |]]>
+    </line>
+    <line>
+      <![CDATA[Opened Browser |]]>
+    </line>
+    <line>
+      <![CDATA[Page title is Javascript Alerts |]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Setup started |]]>
+    </line>
+    <line>
+      <![CDATA[simpleAlertTestCase() started |]]>
+    </line>
+    <line>
+      <![CDATA[Simple Alert opened |]]>
+    </line>
+    <line>
+      <![CDATA[Switched foucs to alert |]]>
+    </line>
+    <line>
+      <![CDATA[Alert text is: This is a JavaScript Alert! |]]>
+    </line>
+    <line>
+      <![CDATA[Alert closed]]>
+    </line>
+    <line>
+      <![CDATA[Test case ended |]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Setup started |]]>
+    </line>
+    <line>
+      <![CDATA[confirmAlertTestCase() started |]]>
+    </line>
+    <line>
+      <![CDATA[Confirm Alert opened |]]>
+    </line>
+    <line>
+      <![CDATA[Switched foucs to alert |]]>
+    </line>
+    <line>
+      <![CDATA[Alert text is: This is a JavaScript Confirmation! |]]>
+    </line>
+    <line>
+      <![CDATA[Alert closed |]]>
+    </line>
+    <line>
+      <![CDATA[Test case ended |]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Setup started |]]>
+    </line>
+    <line>
+      <![CDATA[promptAlertTestCase() started |]]>
+    </line>
+    <line>
+      <![CDATA[Prompt Alert opened |]]>
+    </line>
+    <line>
+      <![CDATA[Switched foucs to alert |]]>
+    </line>
+    <line>
+      <![CDATA[Alert text is: This is a JavaScript Prompt! |]]>
+    </line>
+    <line>
+      <![CDATA[Text entered in prompt alert |]]>
+    </line>
+    <line>
+      <![CDATA[Alert closed |]]>
+    </line>
+    <line>
+      <![CDATA[Test case ended |]]>
+    </line>
+    <line>
+      <![CDATA[Ending Test |]]>
+    </line>
+  </reporter-output>
+  <suite name="TestSuite" duration-ms="10872" started-at="2020-07-09T04:45:39Z" finished-at="2020-07-09T04:45:49Z">
+    <groups>
+    </groups>
+    <test name="Tests" duration-ms="10872" started-at="2020-07-09T04:45:39Z" finished-at="2020-07-09T04:45:49Z">
+      <class name="testNGActivities.Activity9">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testNGActivities.Activity9@573f2bb1]" name="setUp" is-config="true" duration-ms="9106" started-at="2020-07-09T10:15:39Z" finished-at="2020-07-09T10:15:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Starting Test |]]>
+            </line>
+            <line>
+              <![CDATA[Opened Browser |]]>
+            </line>
+            <line>
+              <![CDATA[Page title is Javascript Alerts |]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testNGActivities.Activity9@573f2bb1]" name="beforeMethod" is-config="true" duration-ms="14" started-at="2020-07-09T10:15:48Z" finished-at="2020-07-09T10:15:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Setup started |]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="simpleAlertTestCase()[pri:0, instance:testNGActivities.Activity9@573f2bb1]" name="simpleAlertTestCase" duration-ms="117" started-at="2020-07-09T10:15:48Z" finished-at="2020-07-09T10:15:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[simpleAlertTestCase() started |]]>
+            </line>
+            <line>
+              <![CDATA[Simple Alert opened |]]>
+            </line>
+            <line>
+              <![CDATA[Switched foucs to alert |]]>
+            </line>
+            <line>
+              <![CDATA[Alert text is: This is a JavaScript Alert! |]]>
+            </line>
+            <line>
+              <![CDATA[Alert closed]]>
+            </line>
+            <line>
+              <![CDATA[Test case ended |]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- simpleAlertTestCase -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testNGActivities.Activity9@573f2bb1]" name="beforeMethod" is-config="true" duration-ms="21" started-at="2020-07-09T10:15:48Z" finished-at="2020-07-09T10:15:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Setup started |]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="confirmAlertTestCase()[pri:1, instance:testNGActivities.Activity9@573f2bb1]" name="confirmAlertTestCase" duration-ms="194" started-at="2020-07-09T10:15:48Z" finished-at="2020-07-09T10:15:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[confirmAlertTestCase() started |]]>
+            </line>
+            <line>
+              <![CDATA[Confirm Alert opened |]]>
+            </line>
+            <line>
+              <![CDATA[Switched foucs to alert |]]>
+            </line>
+            <line>
+              <![CDATA[Alert text is: This is a JavaScript Confirmation! |]]>
+            </line>
+            <line>
+              <![CDATA[Alert closed |]]>
+            </line>
+            <line>
+              <![CDATA[Test case ended |]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- confirmAlertTestCase -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testNGActivities.Activity9@573f2bb1]" name="beforeMethod" is-config="true" duration-ms="12" started-at="2020-07-09T10:15:48Z" finished-at="2020-07-09T10:15:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Setup started |]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="promptAlertTestCase()[pri:2, instance:testNGActivities.Activity9@573f2bb1]" name="promptAlertTestCase" duration-ms="109" started-at="2020-07-09T10:15:48Z" finished-at="2020-07-09T10:15:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[promptAlertTestCase() started |]]>
+            </line>
+            <line>
+              <![CDATA[Prompt Alert opened |]]>
+            </line>
+            <line>
+              <![CDATA[Switched foucs to alert |]]>
+            </line>
+            <line>
+              <![CDATA[Alert text is: This is a JavaScript Prompt! |]]>
+            </line>
+            <line>
+              <![CDATA[Text entered in prompt alert |]]>
+            </line>
+            <line>
+              <![CDATA[Alert closed |]]>
+            </line>
+            <line>
+              <![CDATA[Test case ended |]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- promptAlertTestCase -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testNGActivities.Activity9@573f2bb1]" name="tearDown" is-config="true" duration-ms="1227" started-at="2020-07-09T10:15:48Z" finished-at="2020-07-09T10:15:49Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Ending Test |]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testNGActivities.Activity9 -->
+    </test> <!-- Tests -->
+  </suite> <!-- TestSuite -->
+</testng-results>
